@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Persons>
+  <Person id="1" gender="男">小白</Person>
+  <Person id="2" gender="女">惠芬</Person>
+</Persons>
